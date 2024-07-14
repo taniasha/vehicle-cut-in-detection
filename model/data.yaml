@@ -1,0 +1,6 @@
+path: /../kaggle/input/final-dataset/dataset/
+train: ../train/images/
+val: ../val/images/
+test: ../test/images/
+nc: 3
+names: ['small', 'medium', 'large']
